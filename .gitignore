@@ -2,5 +2,10 @@
 bin
 obj
 
+# cruft
+*.dotCover
+*.suo
+_ReSharper.*
+
 # mstest test results
 TestResults

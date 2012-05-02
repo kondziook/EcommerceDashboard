@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceDashboard.Web", "src\ECommerceDashboard.Web\ECommerceDashboard.Web.csproj", "{239250F0-D552-4DD4-847E-CDC7698219E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "src\Web\Web.csproj", "{239250F0-D552-4DD4-847E-CDC7698219E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceDashboard.Tests.Unit", "src\ECommerceDashboard.Tests.Unit\ECommerceDashboard.Tests.Unit.csproj", "{BD6CD411-F3D4-4F50-918E-DD7736BDC95F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Unit", "src\Tests.Unit\Tests.Unit.csproj", "{BD6CD411-F3D4-4F50-918E-DD7736BDC95F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
